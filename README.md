@@ -13,6 +13,7 @@ npm i -g @semantic-release/release-notes-generator
 
 # Usage
 
+
 ```bash
 semantic-release --no-ci
 # Dry run mode

@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/bogaertg/semantic-release-demo/compare/1.2.0...1.3.0) (2022-09-25)
+
+
+### Bug Fixes
+
+* allow provided config object to extend other configs ([57bb55c](https://github.com/bogaertg/semantic-release-demo/commit/57bb55c2e0c193e9a17b3aa0ac3b467056f972ec))
+
+
+### Features
+
+* **api:** send an email to the customer when a product is shipped ([f69fc17](https://github.com/bogaertg/semantic-release-demo/commit/f69fc17007798327e9635f3c0c020701739a3622))
+
 # [1.2.0](https://github.com/bogaertg/semantic-release-demo/compare/1.1.2...1.2.0) (2022-09-25)
 
 

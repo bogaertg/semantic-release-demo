@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/bogaertg/semantic-release-demo/compare/1.1.0...1.1.1) (2022-09-25)
+
+
+### Bug Fixes
+
+* my first fix ([e7fc78b](https://github.com/bogaertg/semantic-release-demo/commit/e7fc78b338392613e18a01ea4a548fc8e062f1ff))
+
 # [1.1.0](https://github.com/bogaertg/semantic-release-demo/compare/1.0.0...1.1.0) (2022-09-25)
 
 

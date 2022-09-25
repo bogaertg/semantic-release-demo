@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/bogaertg/semantic-release-demo/compare/1.0.0...1.1.0) (2022-09-25)
+
+
+### Features
+
+* my second feature ([66325de](https://github.com/bogaertg/semantic-release-demo/commit/66325de96b38959dc2b504118ba23bf90af52466))
+
 # 1.0.0 (2022-09-25)
 
 
